@@ -27,6 +27,13 @@ An interactive web-based visualization tool for exploring different pathfinding 
 2. Open `index.html` in your web browser
 3. The visualization will load automatically
 
+## Demo Screenshots
+### 1.
+<img width="1918" height="997" alt="image" src="https://github.com/user-attachments/assets/fd7c5e8b-724b-4687-acef-fcd31a960fa3" />
+
+### 2.
+<img width="1905" height="992" alt="image" src="https://github.com/user-attachments/assets/0f0e0eac-c03b-4c3a-9d4f-9625491cfca6" />
+
 ## 🎮 How to Use
 
 ### Basic Controls
